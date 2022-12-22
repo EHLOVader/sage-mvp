@@ -1,6 +1,7 @@
 ## Plugins active for testing
 
 
+```
 +-------------------------------+----------+-----------+---------+
 | name                          | status   | update    | version |
 +-------------------------------+----------+-----------+---------+
@@ -12,7 +13,7 @@
 | woocommerce                   | active   | available | 7.2.0   |
 | woocommerce-payments          | inactive | none      | 5.2.0   |
 +-------------------------------+----------+-----------+---------+
-
+```
 
 Create event with test generator that has tickets
 
